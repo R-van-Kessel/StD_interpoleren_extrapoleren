@@ -109,7 +109,7 @@ function createNavigation() {
     <a href="https://r-van-kessel.github.io/Summon_the_Dragon/klas1.html" ontouchstart="">📘 Klas 1</a>
     <a href="https://r-van-kessel.github.io/Summon_the_Dragon/klas2.html" ontouchstart="">📗 Klas 2</a>
     <a href="https://r-van-kessel.github.io/Summon_the_Dragon/klas3.html" ontouchstart="">📙 Klas 3</a>
-    <a href="https://r-van-kessel.github.io/Summon_the_Dragon/bovenbouw.html" ontouchstart="">🎓 Bovenbouw</a>
+    <a href="https://r-van-kessel.github.io/Summon_the_Dragon/overig.html" ontouchstart="">🎓 Overig</a>
   `;
   document.body.prepend(nav);
   
